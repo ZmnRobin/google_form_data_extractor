@@ -1,0 +1,1 @@
+## Google form data extractor is a chrome extension that currently under development. It is designed to extract data from google forms.
